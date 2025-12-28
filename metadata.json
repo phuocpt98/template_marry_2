@@ -1,0 +1,7 @@
+{
+  "name": "Lễ Thành Hôn - Minh & Lan",
+  "description": "Một trang web đám cưới sang trọng và đầy cảm xúc với các hiệu ứng chuyển động ấn tượng, đếm ngược ngày cưới, câu chuyện tình yêu và thông tin địa điểm.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
